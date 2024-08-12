@@ -8,7 +8,7 @@ export default defineConfig({
   },
   resolve: {
     alias: {
-      "@": "/src", // Alias para o diretório src
+      "@": "/", // Alias para o diretório src
     },
   },
 });
